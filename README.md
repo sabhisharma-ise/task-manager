@@ -27,13 +27,13 @@ Follow these steps to set up the application locally:
 2. Install dependencies:
 
     ```bash
-    npm install
+    npm i
     ```
 
 3. Run the server:
 
     ```bash
-    node server.js
+    node index.js
     ```
 
 The server will start at http://localhost:3000.
